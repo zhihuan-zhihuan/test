@@ -1,0 +1,11 @@
+# properties可转换成yml
+
+# 参数
+demo:
+  name: zhihuan
+  age: 27
+
+# 后续学习计划：
+# 1.mybatis
+# 2.接口熟练掌握
+# 3.dao层 entity层 module层 前端views层
